@@ -12,16 +12,10 @@
 - My portfolio website.
 - Stopmotion Creator
 
-### 🌱 Goals for 2020
+### 🌱 Goals for 2022
 - Complete #100DaysOfCode challenge.
 - Build 30+ projects.
 - Contribute to Open Source.
-
-### 💭 Ask me about
-- Astronomy 🔭
-- Blockchain ⛓
-- Design 🎨
-- and anything...
 
 ## Some Statistics About Me
 
