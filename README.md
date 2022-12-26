@@ -17,6 +17,4 @@
 
 ## Some Statistics About Me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=pleaseok&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/pleaseok)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleaseok&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/pleaseok))
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=pleaseok&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/pleaseok)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleaseok&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/pleaseok))
