@@ -1,3 +1,5 @@
+## About me
+
 ### 👋 Hi there
 
 - Hello, I'm Sean,This is [My Blog Link](https://code666.top) 👋
@@ -5,17 +7,16 @@
 
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
-- Quantum Computing
-- Devops
+- Scala
+- Flink
 
 ### 💻 I'm working on
-- My portfolio website.
-- Stopmotion Creator
+- 工作：长沙IT，军工方向。
+- 闲时：做一个开源项目，关于开放式考试系统.
 
-### 🌱 Goals for 2022
-- Complete #100DaysOfCode challenge.
-- Build 30+ projects.
-- Contribute to Open Source.
+### 🌱 Goals for 2023
+- 掌握大数据相关技术.
+- 完成项目【开放式考试系统】.
 
 ## Some Statistics About Me
 
