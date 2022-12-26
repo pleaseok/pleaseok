@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-- Hello, I'm Sean [Blog Link](https://code666.top) 👋
+- Hello, I'm Sean,This is [My Blog Link](https://code666.top) 👋
 - ![Sean](https://komarev.com/ghpvc/?username=pleaseok) ![Sean](https://visitor-badge.glitch.me/badge?page_id=pleaseok.profile)
 
 <!-- Create a tabular data for blog posts-->
