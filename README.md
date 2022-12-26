@@ -2,11 +2,11 @@
 
 
 - Hello, I'm Sean 👋
-- ![Sean](https://komarev.com/ghpvc/?username=pleaseok) ![pleaseok](https://visitor-badge.glitch.me/badge?page_id=pleaseok.profile)
+- ![Sean](https://komarev.com/ghpvc/?username=pleaseok) ![Sean](https://visitor-badge.glitch.me/badge?page_id=pleaseok.profile)
 
 ## Tags
 
-- 🔭 _Searching Engine_ developer
+- 🔭 _follow one's bent_ developer
 - 🌱 _println_ debugger
 - 👯 _never takes two_ follower
 - 🤔 _why does it run_ creator
@@ -17,6 +17,6 @@
 
 ## Some Statistics About Me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=pleaseok&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=pleaseok&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/pleaseok)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleaseok&layout=compact&exclude_repo=pleaseok.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleaseok&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/pleaseok))
